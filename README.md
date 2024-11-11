@@ -9,7 +9,7 @@ A Simple Management Panel Using C#, Windows Forms, and MySQL Database.
 ## Features
 <ul>
     <li>The Admin can see all clients ie. to read each separately. </li>
-    <li>The Admin can also do insert new or update and delete existing client </li>
+    <li>The Admin can also insert new or update and delete existing clients </li>
 <br>
     <li>The admin adds hotel rooms but updates the data or deletes an existing room if needed. </li>
 <br>
